@@ -57,7 +57,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="scripts\arrays.js" />
     <Content Include="index.html" />
+    <Content Include="scripts\funciones.js" />
+    <Content Include="scripts\numeros.js" />
     <Content Include="scripts\script1.js" />
     <Content Include="Web.config" />
   </ItemGroup>
